@@ -1,4 +1,4 @@
-# VirtualBanking Website-<h1>Fully Responsive</h1>
+# VirtualBanking Website-<h3>Fully Responsive</h3>
 
 <h1 align="center">Hi 👋, I'm Praveen Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
